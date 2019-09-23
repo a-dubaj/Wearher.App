@@ -18,7 +18,7 @@ window.addEventListener('load', ()=> {
             })
             .then(data => {
                 console.log(data);
-                const {temperature, summary} = data.currntly;
+                const {temperature, summary} = data.currently;
                 //Set DOM Elements from the API
             })
         });
