@@ -17,7 +17,7 @@ This is a simple weather JavaScript application created in small among of time. 
 </p>
 
 ## Technology
-* JavaScritp
+* JavaScript
 * HTML5 
 * CSS3 
 * Skyicons
